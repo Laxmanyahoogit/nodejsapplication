@@ -1,0 +1,20 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "node training",
+  "main": "app.js",
+  "scripts": {
+    "test": "node",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "test",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2"
+  }
+}
